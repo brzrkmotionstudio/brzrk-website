@@ -1,21 +1,21 @@
 html {
     background-color: #111;
-    color: whitesmoke;
-    height: 100vh;
-    width: 100vw;
+    /* color: whitesmoke; */
+    height: auto;
+    width: 100%;
     padding: 0;
     margin: 0;
     overflow: scroll;
 }
 
-.body {
+/* .body {
     height: 100%;
     width: 100%;
     padding: 0;
     margin: 0;
-}
+} */
 
-.content-wrap {
+/* .content-wrap {
     display: flex;
     flex-direction: column;
     width: 100%;
@@ -192,6 +192,7 @@ html {
     justify-content: center;
     align-items: center;
     min-height: 50vh;
+    max-height: 100%;
     background: rgb(17,17,17);
     background: linear-gradient(119deg, rgba(17,17,17,1) 0%, rgba(68,68,68,1) 100%);
 }
@@ -214,7 +215,8 @@ html {
     display: flex;
     align-items: center;
     gap: 50px;
-    min-height: 60vh;
+    /* min-height: 60vh; */
+    height: 100%;
     padding: 30px;
     height: 500px;
     background: rgba(255,64,0, 1);
@@ -226,7 +228,7 @@ html {
     /* background-color: whitesmoke;
     border-radius: 100%; */
 }
-.hire-copy-wrap {
+.hire-copy-wrap {s
 
 }
 
@@ -358,4 +360,4 @@ background: linear-gradient(119deg, rgba(17,17,17,1) 0%, rgba(68,68,68,1) 100%);
 
 .footer-list-item > a:hover {
     color: #FF4000;
-}
+} */
