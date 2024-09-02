@@ -1,0 +1,16 @@
+{
+  "name": "brzrk-website",
+  "version": "0.0.1",
+  "description": "Responsive website for BRZRK Motion Studio",
+  "source": "src/index.html",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "author": "BRZRK Motion Studio",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
