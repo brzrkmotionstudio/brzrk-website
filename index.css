@@ -41,7 +41,6 @@ html {
 }
 
 .services {
-    padding: 30px;
     display: flex;
     flex-wrap: wrap;
     min-height: 60vh;
