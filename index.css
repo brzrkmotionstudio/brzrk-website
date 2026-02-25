@@ -177,6 +177,7 @@ html {
 .social-list {
     display: flex;
     margin-bottom: 28px;
+    gap: 8px;
 }
 
 .social-list > a {
