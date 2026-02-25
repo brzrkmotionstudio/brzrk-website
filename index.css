@@ -99,6 +99,11 @@ html {
 }
 
 
+.hire-bg {
+    background: rgb(17,17,17);
+    background: linear-gradient(300deg, rgba(17,17,17,1) 60%, rgba(255,64,0,1) 100%);
+}
+
 .hire-section-title {
     margin-top: 10px;
     letter-spacing: 0.03em;
