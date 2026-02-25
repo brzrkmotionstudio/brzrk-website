@@ -175,6 +175,7 @@ html {
 }
 
 .social-list {
+    display: flex;
     margin-bottom: 28px;
 }
 
